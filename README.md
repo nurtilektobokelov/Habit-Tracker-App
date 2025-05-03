@@ -61,7 +61,7 @@ Before running the app locally, ensure that you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/habit-tracker-app.git
+   git clone https://github.com/nurtilektobokelov/habit-tracker-app.git
 2. Navigate to the project folder:
     ```bash
     cd habit-tracker-app
