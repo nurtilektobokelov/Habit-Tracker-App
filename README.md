@@ -131,7 +131,7 @@ Before running the app locally, ensure that you have the following installed:
 
 - **Localization**: Implementing multi-language support was a valuable learning experience in making applications accessible to a broader audience.
 
-## Future Improvements (Optional)
+## Future Improvements
 If we had more time, we would consider adding the following features:
 
 - **Mobile App**: Create a mobile version of the Habit Tracker app using React Native for iOS and Android.
